@@ -9,11 +9,11 @@
 
 <script>
 function displayDate() {
-  document.getElementById("demo").innerHTML = Date();
+  document.getElementById("demo1").innerHTML = Date()
 }
 </script>
 
-<p id="demo"></p>
+<p id="demo1"></p>
 
 </body>
 </html> 
